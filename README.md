@@ -6,9 +6,9 @@ This repository is for recording my version of codes in `cs61A Fall 2024` course
 
 ## Description
 
-In this repository, I've pushed the entire directory of each homework, lab and project, including the directories provided for tests. For any part, my version of code is the python file with the same name as the directory, and I don't modify any test files in each directory. The `env/cs61A` directory is the environment, named `cs61A`, that I use for the course, with `python 3.12`. As far as I'm concerned, the course doesn't require any additional packages, which is quite newer-friendly. 
+In this repository, I've pushed the entire directory of each homework, lab and project, including the directories provided for tests. For any part, my version of code is the python file with the same name as the directory, i.e. `directory_name.py`, and I don't modify any test files or supporting files.
 
-The codes in this repository have all passed the `ok` tests provided by the course. Since I've never referenced the solutions online by other users, the codes might not be the most efficient or elegant, but they are functional and meet the requirements of the course. Moreover, the EC (Extra Credit) parts of the projects are also included in this repository, some of which are a little bit challenging for beginners. However, some diy parts, such as `final_diff` function in `cats/cats.py` and `final_strategy` in `hog/hog.py`, are simple copies of functions previously in the files, which I think, however, are interesting problems and worth consideration in the future.
+The codes in this repository have all passed the `ok` tests provided by the course. Since I've never referenced the solutions online by other users, the codes might not be the most efficient or elegant, but they are functional and meet the requirements of the course. Moreover, the `EC` (Extra Credit) parts of the projects are also included in this repository, some of which are a little bit challenging for beginners. However, some diy parts, such as `final_diff` function in `cats/cats.py` and `final_strategy` in `hog/hog.py`, are simple copies of functions previously in the files, which I think, however, are interesting problems and worth consideration in the future.
 
 ## Update
 
