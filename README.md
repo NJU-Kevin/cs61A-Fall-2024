@@ -12,9 +12,10 @@ The codes in this repository have all passed the `ok` tests provided by the cour
 
 ## Update
 
-This is not an ultimate version of the codes, and I will update it as I progress through the course.
+The update work is complete. I've pushed all the codes to this repository, which is (perhaps) an ultimate version, since I won't modify it in the near future.
 
 ## Useful Links
 
 - [Official Website](https://cs61a.org/)
 - [CS61A Fall 2024 (Mirror Website)](https://insideempire.github.io/CS61A-Website-Archive/)
+- [Official Textbook Online](https://www.composingprograms.com/)
